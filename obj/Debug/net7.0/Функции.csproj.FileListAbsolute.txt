@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\bin\Debug\net7.0\Функции.exe
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\bin\Debug\net7.0\Функции.deps.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\bin\Debug\net7.0\Функции.runtimeconfig.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\bin\Debug\net7.0\Функции.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\bin\Debug\net7.0\Функции.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.AssemblyInfo.cs
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\refint\Функции.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\Функции.genruntimeconfig.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Функции\obj\Debug\net7.0\ref\Функции.dll
